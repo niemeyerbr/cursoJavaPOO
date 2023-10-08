@@ -18,16 +18,9 @@ public class Main {
 
         vis[1] = new Visualizacao(g[0], v[1]);
         vis[0].avaliar(87.0f);
-        System.out.println(vis[1].toString()); //Jubileu assiste aula 02
+        System.out.println(vis[1].toString());
 
-        /*System.out.println("VIDEOS\n -------------------------");
-        System.out.println(v[0].toString());
-        System.out.println(v[1].toString());
-        System.out.println(v[2].toString());
+        System.out.println("Linha para adicionar uma nova versão no git");
 
-        System.out.println("\n GAFANHOTOS\n-------------------");
-        System.out.println(g[0].toString());
-        System.out.println(g[1].toString());
-        */
     }
 }
